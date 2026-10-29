@@ -1,0 +1,24 @@
+Added Component: Designator=J?(SAMTEC_SSW-103-02-G-S-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SSW-103-02-G-S-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SAMTEC_SSW-120-01-G-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SSW-120-01-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-01
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-02
+Added Net: Name=NetJ?_01
+Added Pin To Net: NetName=NetJ?_02 Pin=J?-02
+Added Pin To Net: NetName=NetJ?_02 Pin=J?-16
+Added Net: Name=NetJ?_02
+Added Pin To Net: NetName=NetJ?_03 Pin=J?-03
+Added Pin To Net: NetName=NetJ?_03 Pin=J?-40
+Added Net: Name=NetJ?_03
+Added Class: Name=PI5_extension_board_001
